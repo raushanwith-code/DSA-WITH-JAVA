@@ -12,9 +12,6 @@ public class Stringbilderjava {
 
     System.out.println(x);
 
-
-
-
   }
   
 }
