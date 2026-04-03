@@ -14,7 +14,7 @@ public class arrayintilize1 {
             arr[i]=Sc.nextInt();
         }
 
-        System.out.println("your final result iis");
+        System.out.println("your final result is:=");
 
         for(int i=0; i<arr.length; i++){
 
