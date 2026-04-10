@@ -1,6 +1,7 @@
 import java.util.*;
 public class addnumrecusion {
 
+    //using recursion to add number of given rang
     static int  addNumber(int n){
         int count=0;
    n=Math.abs(n);
